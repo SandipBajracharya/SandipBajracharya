@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing something new
 - 🌱 I’m currently learning MERN Stack
 - 💞️ Feel free to contact me for collaboration 
-- 📫 You can simply reach me through email
+- 📫 You can simply reach me through email (sndp106.sb@gmail.com)
 
 <!---
 SandipBajracharya/SandipBajracharya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
