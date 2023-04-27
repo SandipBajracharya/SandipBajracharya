@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SandipBajracharya
 - 👀 I’m interested in developing something new
-- 🌱 I’m currently learning MERN Stack
 - 💞️ Feel free to contact me for collaboration 
 - 📫 You can simply reach me through email (sndp106.sb@gmail.com)
 
